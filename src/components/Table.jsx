@@ -46,8 +46,8 @@ const Table = () => {
     <>
       <div>
         <h2>User: {user}</h2>
-        {console.log(user)}
-        {console.log(fields)}
+        {/* {console.log(user)}
+        {console.log(fields)} */}
       </div>
       <div>
         {fieldLen > 0 && (
